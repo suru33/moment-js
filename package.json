@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/suru33/moment-js#readme",
   "dependencies": {
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32"
   }
 }
